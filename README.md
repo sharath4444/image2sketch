@@ -16,6 +16,10 @@ The main goal of this project is to provide a simple and interactive interface f
 - Warning message if the uploaded image appears to already be a sketch.
 - Print functionality for the pencil sketch.
 
+  ## deploy link
+  ```bash
+  https://image2sketch.streamlit.app/
+
 ## Prerequisites
 
 Make sure you have Python installed on your system. You also need to install the following libraries:
